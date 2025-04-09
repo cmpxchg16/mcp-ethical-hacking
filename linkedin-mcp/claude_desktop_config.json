@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "linkedin": {
+            "command": "CHANGEME_TO_HOME/.local/bin/uv",
+            "args": [
+                "--directory",
+                "CHANGEME_TO_REPO_DIR/linkedin-mcp/",
+                "run",
+                "linkedin-mcp"
+            ]
+        }
+    }
+}
+
