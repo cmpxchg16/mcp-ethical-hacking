@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.cmpxchg16/mcp-ethical-hacking",
+  "description": "An MCP server that provides LinkedIn & Reddit data",
+  "status": "active",
+  "repository": {
+    "url": "https://github.com/cmpxchg16/mcp-ethical-hacking",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "packages": [
+    {
+      "version": "1.0.0",
+      "registry_type": "mcpb",
+      "identifier": "https://github.com/cmpxchg16/mcp-ethical-hacking/releases/download/v1.0.0/server.mcpb",
+      "file_sha256": "fe333e598595000ae021bd27117db32ec69af6987f507ba7a63c90638ff633ce",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
