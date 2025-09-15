@@ -7,13 +7,13 @@
     "url": "https://github.com/cmpxchg16/mcp-ethical-hacking",
     "source": "github"
   },
-  "version": "1.1.0",
+  "version": "1.2.0",
   "packages": [
     {
-      "version": "1.1.0",
+      "version": "1.2.0",
       "registry_type": "mcpb",
       "identifier": "https://github.com/cmpxchg16/mcp-ethical-hacking/releases/download/v1.0.0/server.mcpb",
-      "file_sha256": "fe333e598595000ae021bd27117db32ec69af6987f507ba7a63c90638ff633ce",
+      "file_sha256": "294365cbf53a602df093e3757e6a31cca6c50dd6af343fefa4a528ab869d24a0",
       "transport": {
         "type": "stdio"
       }
