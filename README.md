@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cmpxchg16-mcp-ethical-hacking-badge.png)](https://mseep.ai/app/cmpxchg16-mcp-ethical-hacking)
+
 # MCP Ethical Hacking
 
 ![AI "Legitimate" image](./linkedin-mcp/linkedin_mcp/ai.png)
